@@ -62,20 +62,20 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Owner FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'FN:✞⃟🥀𝐊𝐀𝐋𝐀𝐒𝐇𝐍𝐈𝐊𝐎𝐕\n'
+            + 'ORG:Owner BRUNO FDS😐;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=557381044096:+55 7381-0440-96\n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "~ IRIENE BOT"
-rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN IRIENEBOT😁"
-rmenu = "HAI TEMEN IRIENEBOT👋 JANGAN LUPA DONASI YAA:)"
-botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
+name = "~ ✞⃟🥀𝐊𝐀𝐋𝐀𝐒𝐇𝐍𝐈𝐊𝐎𝐕 BOT"
+rdaftar = "OBRIGADO POR SE REGISTAR RANDOM RIRI 😐 "
+rmenu = "Olá amigo Lindor NÃO se esqueça de doar uma migalha se hehe :) "
+botinfo = "PARA BOTS CONVIDADOS, DOE FIRST YAA:)"
 limitt = 10
 memberLimit = 2
 ban = []
-premium = ["628311800241@s.whatsapp.net"]
+premium = ["557381044096@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
@@ -201,7 +201,7 @@ async function starts() {
 			}
 
 			const botNumber = frhan.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"] // owner number ubah aja
+			const ownerNumber = ["557381044096@s.whatsapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await frhan.groupMetadata(from) : ''
