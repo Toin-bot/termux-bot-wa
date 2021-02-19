@@ -2,32 +2,17 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 	
-\`\`\`Follow My Instagram\`\`\`
-${instagram}
-
-\`\`\`SUBSCRIBE😁\`\`\`
-${yt}
-
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+     Sla ✞⃟🥀𝐊𝐀𝐋𝐀𝐒𝐇𝐍𝐈𝐊𝐎𝐕 DOMINAKKKKAK
 
 
-\`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
-\`\`\`MENGGUNAKAN BOT\`\`\`
+
+
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
 ┣⊱  \`\`\`NAMA USER:\`\`\` *${pushname2}*
-┣⊱  \`\`\`VERIVICATION:\`\`\` ✅
-┣⊱  \`\`\`LIMIT:\`\`\` *${limitt} perhari*
-┣⊱  \`\`\`AKTIF:\`\`\` ${kyun(uptime)}
-┣⊱  \`\`\`JAM:\`\`\` *${jam} WIB*
-┣⊱  \`\`\`TANGGAL:\`\`\` *${tanggal}*
-┣⊱  \`\`\`VERSION:\`\`\` *6.5.0*
-┣⊱  \`\`\`USER TERDAFTAR:\`\`\` *${user.length} User*
 ┣⊱  ❌ *SPAM*
 ┣⊱  ❌ *CALL & VC*
-┣⊱  \`\`\`Melanggar??\`\`\` *Banned + Out Group*
 ┬
 ╰────────────────────────
 
@@ -78,16 +63,16 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ├───────────────────
 │➻ *${prefix}tp 1 - 162*
 │➻ *${prefix}ep 1 - 216*
-│➻ *${prefix}tahta FXC7*
-│➻ *${prefix}cglass FXC7*
-│➻ *${prefix}cstyle FXC7*
-│➻ *${prefix}cgame FXC7*
-│➻ *${prefix}clove FXC7*
-│➻ *${prefix}cparty FXC7*
-│➻ *${prefix}csky FXC7*
-│➻ *${prefix}tts id Haii*
-│➻ *${prefix}ttp Fxc7*
-│➻ *${prefix}cpaper Fxc7*
+│➻ *${prefix}tahta KOV*
+│➻ *${prefix}cglass KOV*
+│➻ *${prefix}cstyle KOV*
+│➻ *${prefix}cgame KOV*
+│➻ *${prefix}clove KOV*
+│➻ *${prefix}cparty KOV*
+│➻ *${prefix}csky KOV*
+│➻ *${prefix}tts [texto;-;]*
+│➻ *${prefix}ttp KOV*
+│➻ *${prefix}cpaper KOV*
 ├───────────────────
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
@@ -99,7 +84,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰──────────────────────────
 
 
-╭───────「 *GROUP ONLY* 」
+╭───────「 *GRUPO SÓ* 」
 ┴
 │➻ *${prefix}modeanime On/Off*
 │➻ *${prefix}neonime naruto*
@@ -122,7 +107,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰───────────────────────
 
 
-╭───────「 *GROUP ONLY* 」
+╭───────「 *SÓ GRUPO* 」
 ┴
 │➻ *${prefix}antilink On/Off*
 │➻ *${prefix}welcome On/Off*
@@ -148,7 +133,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭───────「 *GROUP ONLY ADMIN* 」
+╭───────「 *GRUPO TBMKKK MAIS É SO POS ADMIR🤚😎* 」
 ┴
 │➻ *${prefix}nsfw On/Off*
 │➻ *${prefix}nsfwloli*
@@ -162,7 +147,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OUTROS DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}anjing*
 │➻ *${prefix}kucing*
@@ -192,7 +177,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OUTROS DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}jarak Banyuwangi/Surabaya*
 │➻ *${prefix}translate en/Apa kabar?*
@@ -222,7 +207,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰───────────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OUTROS DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}readmore*
 │➻ *${prefix}puisiimg*
@@ -238,7 +223,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OUTROS DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}randomkpop*
 │➻ *${prefix}cersex*
@@ -250,7 +235,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OUTROS DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}jadwalsholat Banyuwangi*
 │➻ *${prefix}quran*
@@ -260,7 +245,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *FIND ME SIR* 」
+╭──────「 *ME ENCONTRE, SIR* 」
 ┴
 │➻ *${prefix}becrypt string*
 │➻ *${prefix}encode64 string*
@@ -280,7 +265,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OUTROS DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}spamcall 083xxxxxxxxx*
 │➻ *${prefix}spamgmail contoh@gmail.com*
@@ -288,7 +273,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭─────────「 *OWNER ONLY* 」
+╭─────────「 *SÓ PROPRIETÁRIO* 」
 ┴
 │➻ *${prefix}addprem mentioned*
 │➻ *${prefix}removeprem mention*
@@ -313,7 +298,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭────────「 *PREMIUM ONLY* 」
+╭────────「 *EXCLUSIVO PARA PREMIUMS* 」
 ┴
 │➻ *${prefix}playmp3 menepi*
 │➻ *${prefix}fb link video*
@@ -332,7 +317,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 │➲ *M. HADI FIRMANSYA*
 │➲ *DELIA AULIA*
 │➲ *KEVIN DAVID*
-│➲ *MY TEAM FXC7 BOT*
+│➲ *MY TEAM KOV BOT*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
 ┬
 ╰────────────────────────`
